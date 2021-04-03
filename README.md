@@ -1,5 +1,3 @@
-# HMI
-HMI scada
 # AFSM HMI
 The Arduino Finite State Machine
 
